@@ -1,7 +1,7 @@
 #include<Servo.h>
 
-#define trigPin 8
-#define echoPin 9
+#define trigPin 9
+#define echoPin 10
 
 long duration;
 int distance ;
